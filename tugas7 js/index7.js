@@ -21,4 +21,3 @@ const persegi = (sisi) => {
 }
 console.log(persegi(2));
 
- // soal 3
